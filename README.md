@@ -1,4 +1,6 @@
-**Kush** Brahmbhatt\*\*
+<h1>Kush Brahmbhatt</h1>
+
+\*\*
 
 _Gujarat, India_
 
