@@ -1,8 +1,8 @@
 # Kush Brahmbhatt
 
-_Gujarat, India_
+Lives in: _Gujarat, India_
 
-![Profile Image](https://avatars.githubusercontent.com/u/53259925?v=4)
+<!-- ![Profile Image](https://avatars.githubusercontent.com/u/53259925?v=4) -->
 
 Email: <a href="mailto:kushbrahmbhatt23@gmail.com" target="_blank">kushbrahmbhatt23@gmail.com</a>
 <br/>
