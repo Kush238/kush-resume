@@ -122,3 +122,4 @@ An app to check out the time and date of any country over the world.
 - **Gender:** Male
 - **Marital Status:** Single
 - **Languages I Know:** Gujarati, Hindi, English
+- **I Live In:** Gujarat, India
