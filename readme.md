@@ -52,7 +52,7 @@ Graphic Designer - Mar 2021 – Nov 2022
 
 ### Weather App V 1.0 - GitHub Pages
 
-An app to see the current weather of any city. [GitHub](https://github.com/soumyajit4419/Bits-0f-C0de)
+An app to see the current weather of any city.
 
 - Real-time weather information using OpenWeatherMap API.
 - Technologies used: HTML, CSS, JavaScript
@@ -61,7 +61,7 @@ An app to see the current weather of any city. [GitHub](https://github.com/soumy
 
 ### Weather App V 2.0 - Vercel
 
-An app to see the current weather of any city with a modern UI and location services. [GitHub](https://github.com/soumyajit4419/Chatify)
+An app to see the current weather of any city with a modern UI and location services.
 
 - Real-time weather information with a clean and intuitive interface.
 - Technologies used: HTML, CSS, JavaScript, ReactJS, Tailwind CSS, OpenWeatherMap API
@@ -70,7 +70,7 @@ An app to see the current weather of any city with a modern UI and location serv
 
 ### Map Current Time - Vercel
 
-An app to check out the time and date of any country over the world. [GitHub](https://github.com/soumyajit4419/Chatify)
+An app to check out the time and date of any country over the world.
 
 - Real-time date & time information for countries around the world.
 - Technologies used: HTML, CSS, JavaScript, Timezone Abstract API
