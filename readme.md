@@ -36,7 +36,7 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 
 (Remote Job)
 
-<h4>Full Stack Developer - Nov 2022 – Aug 2023</h4>
+Full Stack Developer - Nov 2022 – Aug 2023
 
 - Designed and developed the frontend and backend of blogging websites.
 - Optimized and added rich text editing features for authors.
