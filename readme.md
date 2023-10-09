@@ -107,7 +107,7 @@ SSC (GSHEB) – 10th _June. 2017 ‑ Apr. 2018_
 
 _Gujarat, India_
 
-![Profile Image](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.001.png)
+![Profile Image](https://avatars.githubusercontent.com/u/53259925?v=4)
 
 Email: kushbrahmbhatt23@gmail.com
 Portfolio: [thekush.vercel.app](http://soumyajit.vercel.app/)
