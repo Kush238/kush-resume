@@ -1,223 +1,104 @@
-<a name="br1"></a>
-
-**Kush** Brahmbhatt
+**Kush** Brahmbhatt\*\*
 
 _Gujarat, India_
 
-kushbrahmbhatt23@gmail.com
+![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.001.png) kushbrahmbhatt23@gmail.com | [thekush.vercel.app ](http://soumyajit.vercel.app/) | ![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.002.png)[ Kush238 ](https://github.com/soumyajit4419) | ![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.003.png)[ kushbrahnbhatt-31a062208 ](https://www.linkedin.com/in/soumyajit4419) | [ @kush_238 ](https://twitter.com/%40soumyajit4419)![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.004.png)![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.005.png)
 
-|
+**Work Experience![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.006.png)**
 
-[thekush.vercel.app](http://soumyajit.vercel.app/)
+**DesiHipHop** _Gujarat_
 
-|
+Full Stack Developer _Nov 2022 – Aug 2023_
 
-[Kush238](https://github.com/soumyajit4419)
+- Worked on all the designing the frontend and backend of these blogging website.
+- Worked on optimizing and added rich text for the authors to make writing interesting.
+- **Made using: HTML, CSS, JavaScript, PHP, MySQL, CKEditor**
 
-|
+**Balaji Seasonable** _Remote_
 
-[kushbrahnbhatt-31a062208](https://www.linkedin.com/in/soumyajit4419)
+Graphic Designer _Mar 2021‑ Nov 2022_
 
-|
+- Worked on designign brand of Balaji Seasonable.
+- Branding included: Logo, Hand Menu and also edited the pics of Rakhis.
+- **Made on: Adobe Illustrator, Adobe Photoshop, Adobe Lightroom**
 
-[@kush_238](https://twitter.com/%40soumyajit4419)
+**The Cool Joint** _Remote_
 
-**Work Experience**
+Graphic Designer _Mar 2021‑ Nov 2022_
 
-**DesiHipHop**
+- Worked on the designing whole brand of The Cool Joint.
+- Branding included: Logo, Hand Menus, Big XL Menus and Posters, Invitation Cards and Brochures.
+- And recorded and edited the videos and photos of fast foods to post it on Instagram Reels.
+- **Made on: Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Wondershare Filmora**
 
-_Gujarat_
+**Shyam Fibers** _Remote_
 
-Full Stack Developer
+Graphic Designer _Mar 2021‑ Nov 2022_
 
-_Nov 2022 – Aug 2023_
+- Worked on the designing logos and brochures of Shyam Fibers.
+- **Made on: CorelDraw, Adobe Illustrator, Adobe Photoshop**
 
-• Worked on all the designing the frontend and backend of these blogging website.
+**Projects ![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.007.png)**
 
-• Worked on optimizing and added rich text for the authors to make writing interesting.
+**Weather App V 1.0** _GitHub Pages_ An app to see the current weather of any city. _[Github_ ](https://github.com/soumyajit4419/Bits-0f-C0de)\*
 
-• **Made using: HTML, CSS, JavaScript, PHP, MySQL, CKEditor**
+- This web application provides real-time weather information for locations around the world.Used static site generation resulting in faster load time and increasing efficiency.
+- [Made ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, OpenWeatherMap API**
+- [**https://kush238.github.io/weather-app/** ](https://kush238.github.io/weather-app/)
 
-**Balaji Seasonable**
+**Weather App V 2.0** _Vercel_
 
-_Remote_
+An app to see the current weather of any city with modern UI and location services. _[Github_ ](https://github.com/soumyajit4419/Chatify)\*
 
-Graphic Designer
+- This web application provides real-time weather information for locations around the world.Used static site generation resulting in faster load time and increasing efficiency.
+- With a clean and intuitive interface, it allows users to quickly check the current weather conditions, temperature, humidity, wind speed, and more for their desired location.
+- [Made ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, ReactsJS, Tailwind CSS, OpenWeatherMap API**
+- [**https://weatherapp-kush.vercel.app/** ](https://weatherapp-kush.vercel.app/)
 
-_Mar 2021‑ Nov 2022_
+**Map Current Time** _Vercel_
 
-• Worked on designign brand of Balaji Seasonable.
+An app to check out the time and date of any country over the world. _[Github_ ](https://github.com/soumyajit4419/Chatify)\*
 
-• Branding included: Logo, Hand Menu and also edited the pics of Rakhis.
+- This web application provides real-time date & time information for countries around the world. With a clean and intuitive interface, it allows users to quickly check the current time & data of any country.
+- [Made ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, Timezone Abstract API**
+- [**https://current-time-map-kush.vercel.app/** ](https://current-time-map-kush.vercel.app/)
 
-• **Made on: Adobe Illustrator, Adobe Photoshop, Adobe Lightroom**
+**Technical Skills![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.008.png)**
 
-**The Cool Joint**
+**Strongest Areas** Web Frontend Development
 
-_Remote_
+**Programming Languages** HTML, CSS, JavaScript, PHP
 
-Graphic Designer
+**Libraries/Frameworks** Tailwind CSS, React.JS, Next.JS, Express.JS, Typescript, Git, Node.JS **Database** MongoDB, Firebase, MySQL, PostgreSQL
 
-_Mar 2021‑ Nov 2022_
+**Platforms** Vercel, Netlify, GitHub Pages, Heroku
 
-• Worked on the designing whole brand of The Cool Joint.
+**Education ![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.009.png)**
 
-• Branding included: Logo, Hand Menus, Big XL Menus and Posters, Invitation Cards and Brochures.
+**Charotor University of Science & Technology (Charusat)** _Gujarat, India_ MSc(IT) - Master of Science in Information Technology \*June. 2023 ‑ \*\*
 
-• And recorded and edited the videos and photos of fast foods to post it on Instagram Reels.
+- NA/10
 
-• **Made on: Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Wondershare Filmora**
+**Charotor University of Science & Technology (Charusat)** _Gujarat, India_ BCA – Bachelor Of Computer Application _June. 2020 ‑ Apr. 2023_
 
-**Shyam Fibers**
+- 5.67/10
 
-_Remote_
+**English Teaching School** _Gujarat, India_
 
-Graphic Designer
+HSC (GSHEB) – 12th _June. 2019 ‑ Apr. 2020_
 
-_Mar 2021‑ Nov 2022_
+- 63%
 
-• Worked on the designing logos and brochures of Shyam Fibers.
+**St. Mary’s English Medium High School** _Gujarat, India_
 
-• **Made on: CorelDraw, Adobe Illustrator, Adobe Photoshop**
+SSC (GSHEB) – 10th _June. 2017 ‑ Apr. 2018_
 
-**Projects**
+- 68%
 
-**Weather App V 1.0**
+**Personal Details![](Aspose.Words.4af56b91-d50a-450a-926e-5ce8375b7e73.010.png)**
 
-_GitHub Pages_
+**Full Name** Kush P. Brahmbhatt **Date Of Birth** 23rd August, 2003 **Gender** Male
 
-[_Github_](https://github.com/soumyajit4419/Bits-0f-C0de)
+**Marital Status** Single
 
-An app to see the current weather of any city.
-
-• This web application provides real-time weather information for locations around the world.Used static site generation resulting in faster load
-
-time and increasing efficiency.
-
-• [Made](https://soumyajitblogs.vercel.app/)[ ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, OpenWeatherMap API**
-
-• [**https://kush238.github.io/weather-app/**](https://kush238.github.io/weather-app/)
-
-**Weather App V 2.0**
-
-_Vercel_
-
-[_Github_](https://github.com/soumyajit4419/Chatify)
-
-An app to see the current weather of any city with modern UI and location services.
-
-• This web application provides real-time weather information for locations around the world.Used static site generation resulting in faster load
-
-time and increasing efficiency.
-
-• With a clean and intuitive interface, it allows users to quickly check the current weather conditions, temperature, humidity, wind speed, and
-
-more for their desired location.
-
-• [Made](https://soumyajitblogs.vercel.app/)[ ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, ReactsJS, Tailwind CSS, OpenWeatherMap API**
-
-• [**https://weatherapp-kush.vercel.app/**](https://weatherapp-kush.vercel.app/)
-
-**Map Current Time**
-
-_Vercel_
-
-[_Github_](https://github.com/soumyajit4419/Chatify)
-
-An app to check out the time and date of any country over the world.
-
-• This web application provides real-time date & time information for countries around the world. With a clean and intuitive interface, it allows
-
-users to quickly check the current time & data of any country.
-
-• [Made](https://soumyajitblogs.vercel.app/)[ ](https://soumyajitblogs.vercel.app/)using: **HTML, CSS, JavaScript, Timezone Abstract API**
-
-• [**https://current-time-map-kush.vercel.app/**](https://current-time-map-kush.vercel.app/)
-
-**Technical Skills**
-
-**Strongest Areas**
-
-**Programming Languages**
-
-**Libraries/Frameworks**
-
-**Database**
-
-Web Frontend Development
-
-HTML, CSS, JavaScript, PHP
-
-Tailwind CSS, React.JS, Next.JS, Express.JS, Typescript, Git, Node.JS
-
-MongoDB, Firebase, MySQL, PostgreSQL
-
-Vercel, Netlify, GitHub Pages, Heroku
-
-**Platforms**
-
-<a name="br2"></a>
-
-**Education**
-
-**Charotor University of Science & Technology (Charusat)**
-
-MSc(IT) - Master of Science in Information Technology
-
-• NA/10
-
-_Gujarat, India_
-
-\*June. 2023 ‑ \*\*
-
-**Charotor University of Science & Technology (Charusat)**
-
-BCA – Bachelor Of Computer Application
-
-• 5.67/10
-
-_Gujarat, India_
-
-_June. 2020 ‑ Apr. 2023_
-
-**English Teaching School**
-
-HSC (GSHEB) – 12<sup>th</sup>
-
-• 63%
-
-_Gujarat, India_
-
-_June. 2019 ‑ Apr. 2020_
-
-**St. Mary’s English Medium High School**
-
-_Gujarat, India_
-
-SSC (GSHEB) – 10<sup>th</sup>
-
-• 68%
-
-_June. 2017 ‑ Apr. 2018_
-
-**Personal Details**
-
-**Full Name**
-
-Kush P. Brahmbhatt
-
-23<sup>rd</sup> August, 2003
-
-Male
-
-**Date Of Birth**
-
-**Gender**
-
-**Marital Status**
-
-**Languages I Know**
-
-Single
-
-Gujarati, Hindi, English
+**Languages I Know** Gujarati, Hindi, English
