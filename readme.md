@@ -42,14 +42,16 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 - Optimized and added rich text editing features for authors.
 - Technologies used: HTML, CSS, JavaScript, PHP, MySQL, CKEditor
 
-**Balaji Seasonable** - Remote Job
+<h3>Balaji Seasonable</h3>
+(Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
 
 - Designed the brand identity for Balaji Seasonable, including logos and menu items.
 - Used Adobe Illustrator, Photoshop, and Lightroom for branding.
 
-**The Cool Joint** - Remote Job
+<h3>The Cool Joint</h3>
+(Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
 
@@ -57,7 +59,8 @@ Graphic Designer - Mar 2021 – Nov 2022
 - Recorded and edited videos and photos for social media.
 - Tools used: Adobe Illustrator, Photoshop, Lightroom, Wondershare Filmora
 
-**Shyam Fibers** - Remote
+<h3>Shyam Fibers</h3>
+(Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
 
