@@ -32,7 +32,7 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 
 ## Work Experience
 
-**DesiHipHop** - Gujarat
+**DesiHipHop** - Remote Job
 
 Full Stack Developer - Nov 2022 – Aug 2023
 
@@ -40,14 +40,14 @@ Full Stack Developer - Nov 2022 – Aug 2023
 - Optimized and added rich text editing features for authors.
 - Technologies used: HTML, CSS, JavaScript, PHP, MySQL, CKEditor
 
-**Balaji Seasonable** - Remote
+**Balaji Seasonable** - Remote Job
 
 Graphic Designer - Mar 2021 – Nov 2022
 
 - Designed the brand identity for Balaji Seasonable, including logos and menu items.
 - Used Adobe Illustrator, Photoshop, and Lightroom for branding.
 
-**The Cool Joint** - Remote
+**The Cool Joint** - Remote Job
 
 Graphic Designer - Mar 2021 – Nov 2022
 
