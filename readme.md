@@ -16,6 +16,10 @@ Twitter: <a href="https://twitter.com/Kush_238" target="_blank">@kush_238</a>
 <br/>
 All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank">links-kush.vercel.app</a>
 
+## Table of Contents:
+
+[Work Experience](https://github.com/Kush238/kush-resume#work-experience)
+
 ## Work Experience
 
 **DesiHipHop** - Gujarat
