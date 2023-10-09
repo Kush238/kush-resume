@@ -4,17 +4,17 @@ _Gujarat, India_
 
 ![Profile Image](https://avatars.githubusercontent.com/u/53259925?v=4)
 
-Email: kushbrahmbhatt23@gmail.com
+Email: <a href="mailto:kushbrahmbhatt23@gmail.com" target="_blank">kushbrahmbhatt23@gmail.com</a>
 <br/>
-Portfolio: [thekush.vercel.app](https://thekush.vercel.app/)
+Portfolio: <a href="https://thekush.vercel.app/" target="_blank">thekush.vercel.app</a>
 <br/>
-GitHub: [Kush238](https://github.com/Kush238)
+GitHub: <a href="https://github.com/Kush238" target="_blank">Kush238</a>
 <br/>
-LinkedIn: [kushbrahmbhatt-31a062208](https://www.linkedin.com/in/kush-brahmbhatt-31a062208/)
+LinkedIn: <a href="https://www.linkedin.com/in/kush-brahmbhatt-31a062208/" target="_blank">kushbrahmbhatt-31a062208</a>
 <br/>
-Twitter: [@kush_238](https://twitter.com/Kush_238)
+Twitter: <a href="https://twitter.com/Kush_238" target="_blank">@kush_238</a>
 <br/>
-All Social Media Links: https://links-kush.vercel.app/
+All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank">links-kush.vercel.app</a>
 
 ## Work Experience
 
