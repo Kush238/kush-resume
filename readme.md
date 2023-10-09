@@ -115,7 +115,7 @@ Portfolio: [thekush.vercel.app](https://thekush.vercel.app/)
 <br/>
 GitHub: [Kush238](https://github.com/Kush238)
 <br/>
-LinkedIn: [kushbrahnbhatt-31a062208](https://www.linkedin.com/in/kush-brahmbhatt-31a062208/)
+LinkedIn: [kushbrahmbhatt-31a062208](https://www.linkedin.com/in/kush-brahmbhatt-31a062208/)
 <br/>
 Twitter: [@kush_238](https://twitter.com/Kush_238)
 
