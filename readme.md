@@ -32,7 +32,9 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 
 ## Work Experience
 
-<h3>DesiHipHop</h3> - Remote Job
+<h3>DesiHipHop</h3>
+
+(Remote Job)
 
 <h4>Full Stack Developer - Nov 2022 – Aug 2023</h4>
 
