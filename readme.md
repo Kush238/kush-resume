@@ -18,6 +18,8 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 
 ## Table of Contents:
 
+[Home](https://github.com/Kush238/kush-resume)
+<br/>
 [Work Experience](https://github.com/Kush238/kush-resume#work-experience)
 <br/>
 [Projects](https://github.com/Kush238/kush-resume#projects)
