@@ -63,12 +63,21 @@ Graphic Designer - Mar 2021 – Nov 2022
 
 <h3>Shyam Fibers</h3>
 
-(Remote Job)
+(Office Job)
 
-Graphic Designer - Mar 2021 – Nov 2022
+Graphic Designer - Feb 2021 – Nov 2022
 
 - Designed logos and brochures for Shyam Fibers.
 - Tools used: CorelDraw, Adobe Illustrator, Adobe Photoshop
+
+<h3>Acme Enterprise</h3>
+
+(Office Job)
+
+Seller & Graphic Designer - Aug 2020 – Feb 2021
+
+- Designed logos, posters, and brochures for Acme Enterprise.
+- I was a seller at Acme Computers. And I used to sell Laptops, Printers, Cameras and Computers.
 
 ## Projects
 
