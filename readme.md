@@ -43,6 +43,7 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 - Technologies used: HTML, CSS, JavaScript, PHP, MySQL, CKEditor
 
 <h3>Balaji Seasonable</h3>
+
 (Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
@@ -51,6 +52,7 @@ Graphic Designer - Mar 2021 – Nov 2022
 - Used Adobe Illustrator, Photoshop, and Lightroom for branding.
 
 <h3>The Cool Joint</h3>
+
 (Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
@@ -60,6 +62,7 @@ Graphic Designer - Mar 2021 – Nov 2022
 - Tools used: Adobe Illustrator, Photoshop, Lightroom, Wondershare Filmora
 
 <h3>Shyam Fibers</h3>
+
 (Remote Job)
 
 Graphic Designer - Mar 2021 – Nov 2022
