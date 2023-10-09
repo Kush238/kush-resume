@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <!-- You can add a link to a CSS framework like Bootstrap if preferred -->
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
+<!-- You can add a link to a CSS framework like Bootstrap if preferred -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
 
 </head>
 <body>
@@ -29,7 +29,7 @@
         </div>
     </header>
     
-    <section id="work-experience">
+<section id="work-experience">
         <h2>Work Experience</h2>
         <div class="job">
             <h3>DesiHipHop - Gujarat</h3>
@@ -41,13 +41,13 @@
             </ul>
         </div>
         <!-- Repeat the same structure for other job experiences -->
-    </section>
+</section>
 
-    <!-- Repeat the same structure for Projects, Technical Skills, Education, and Personal Details sections -->
+<!-- Repeat the same structure for Projects, Technical Skills, Education, and Personal Details sections -->
 
-    <footer>
+<footer>
         <p>&copy; 2023 Kush P. Brahmbhatt</p>
-    </footer>
+</footer>
 
 </body>
 </html>
