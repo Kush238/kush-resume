@@ -110,6 +110,7 @@ _Gujarat, India_
 ![Profile Image](https://avatars.githubusercontent.com/u/53259925?v=4)
 
 Email: kushbrahmbhatt23@gmail.com
+<br/>
 Portfolio: [thekush.vercel.app](http://soumyajit.vercel.app/)
 GitHub: [Kush238](https://github.com/soumyajit4419)
 LinkedIn: [kushbrahnbhatt-31a062208](https://www.linkedin.com/in/soumyajit4419)
