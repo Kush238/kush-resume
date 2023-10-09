@@ -111,10 +111,13 @@ _Gujarat, India_
 
 Email: kushbrahmbhatt23@gmail.com
 <br/>
-Portfolio: [thekush.vercel.app](http://soumyajit.vercel.app/)
-GitHub: [Kush238](https://github.com/soumyajit4419)
-LinkedIn: [kushbrahnbhatt-31a062208](https://www.linkedin.com/in/soumyajit4419)
-Twitter: [@kush_238](https://twitter.com/%40soumyajit4419)
+Portfolio: [thekush.vercel.app](https://thekush.vercel.app/)
+<br/>
+GitHub: [Kush238](https://github.com/Kush238)
+<br/>
+LinkedIn: [kushbrahnbhatt-31a062208](https://www.linkedin.com/in/kush-brahmbhatt-31a062208/)
+<br/>
+Twitter: [@kush_238](https://twitter.com/Kush_238)
 
 ## Work Experience
 
