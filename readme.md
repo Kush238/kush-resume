@@ -19,6 +19,10 @@ All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank"
 ## Table of Contents:
 
 [Work Experience](https://github.com/Kush238/kush-resume#work-experience)
+[Projects](https://github.com/Kush238/kush-resume#projects)
+[Technical Skills](https://github.com/Kush238/kush-resume#technical-skills)
+[Education](https://github.com/Kush238/kush-resume#education)
+[Personal Details](https://github.com/Kush238/kush-resume#personal-details)
 
 ## Work Experience
 
